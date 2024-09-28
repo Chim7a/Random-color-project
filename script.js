@@ -18,7 +18,7 @@ function getRandomColor() {
 
   //   Greeting Message
   if (currentTime.getHours() < 12) {
-    greetMsg.innerText = `<h1>Hello</h1>`;
+    greetMsg.innerText = `Good Morning`;
   } else if (currentTime.getHours() < 16 && currentTime.getHours() != 11) {
     greetMsg.innerText = `Good Afternoon`;
   } else {
