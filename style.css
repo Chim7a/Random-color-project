@@ -12,6 +12,7 @@ body {
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgba(33, 33, 33, 0.607);
 }
 
 .container {
